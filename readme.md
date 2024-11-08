@@ -1,4 +1,7 @@
-# Hi, This is Ajay hava good capability to code 
-# and already hava extra smart man
+# Hi, This is Ajay 
 
-this above is stuff for ajay
+# Email = Ajaykadwal.work@gmail.com
+# contact = 9660634627
+# Linkdin = Ajay Kadwal
+
+This is contact information about Ajay
